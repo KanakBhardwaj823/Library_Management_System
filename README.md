@@ -17,11 +17,12 @@ This is a simple **Library Management System** built using **Java** for console 
 ---
 
 ## 📁 Project Structure
-LibraryManagementSystem/
-├── Book.java # Book class with issue/return methods
-├── User.java # User class with borrowing history
-├── Library.java # Core library logic
-└── LibraryManagementSystem.java # Main class with menu-driven UI
+- LibraryManagementSystem
+- Book.java # Book class with issue/return methods
+- User.java # User class with borrowing history
+- Library.java # Core library logic
+- LibraryManagementSystem.java # Main class with menu-driven UI
+
 ---
 
 ## 🛠️ Tech Stack
